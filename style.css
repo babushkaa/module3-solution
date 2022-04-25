@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-
+  margin: auto;
 }
 
 nav{
@@ -8,7 +8,6 @@ nav{
 	margin: auto;
 }
 #llc{
-	
 	margin-right: 3%
 }
 h1 {
