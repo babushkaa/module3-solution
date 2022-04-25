@@ -51,14 +51,17 @@ span {
 #food1 {
 	background-color: rgb(250, 150, 150);
 	color: black;
+	margin-bottom: 1%;
 }
 #food2 {
 	background-color: rgb(250, 0, 0);
 	color: white;
+	margin-bottom: 1%;
 }
 #food3 {
 	background-color: rgb(200, 200, 100);
 	color: black;
+	margin-bottom: 1%;
 }
 }
 
