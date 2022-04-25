@@ -2,9 +2,14 @@
   box-sizing: border-box;
 
 }
+
 nav{
 	background-color: grey;
-	margin-right: 3%;
+	margin: auton;
+}
+#llc{
+	
+	margin-right: 3%
 }
 h1 {
 	font-size: 27px;
