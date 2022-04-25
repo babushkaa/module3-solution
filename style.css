@@ -5,11 +5,14 @@
 
 nav{
 	background-color: grey;
+	margin-bottom: 2%;
 	
 }
 
 h3{
-text-align: left;
+	margin-top:1%;
+	margin-botton:1%;
+	text-align: left;
 }
 h1 {
 	font-size: 27px;
